@@ -3,4 +3,6 @@
    
  more on:  
  https://www.behance.net/gallery/66699949/Virtual-Catalogs-of-Design-Prototypes-ACM-Publication  
- http://www.amitz.co/catalog.html
+ http://www.amitz.co/catalog.html  
+   
+ *the different versions are towards the adaptation from design to user study
